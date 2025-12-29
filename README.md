@@ -75,7 +75,3 @@ Each student has:
 - Loops
 - Basic Searching
 - Modular Design
-
----
-
-## ▶️ Sample Output
